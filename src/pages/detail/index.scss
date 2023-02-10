@@ -1,0 +1,20 @@
+@import "~taro-ui/dist/style/components/icon.scss";
+
+#btn-list {
+  position: fixed;
+  bottom: 58px;
+  left: 20px;
+  right: 20px;
+  height: 58px;
+  background-color: black;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  .btn{
+    border: 0;
+    font-size: 32px;
+    color: #fff;
+    flex: 1;
+    line-height: 58px;
+  }
+}

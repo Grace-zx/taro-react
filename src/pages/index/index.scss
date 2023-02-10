@@ -1,0 +1,13 @@
+#pic-list-container {
+  width: 100%;
+  .pic-container {
+    width: 33%;
+    float: left;
+    text-align: center;
+    background-color: white;
+    .pic-img {
+      padding: 16px;
+      width: 100%;
+    }
+  }
+}
