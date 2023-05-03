@@ -22,7 +22,7 @@ export default class Index extends Component<any, IState> {
     for(let i=1; i<15;i++){
     imgList.push({
       id:i,
-      url:'https://img0.baidu.com/it/u=2794329775,2066882681&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=856'
+      url:'https://t11.baidu.com/it/u=3376781582,191357210&fm=30&app=106&f=JPEG?w=640&h=986&s=F7400BF3062336BC092D08FA0300E010'
     })
     }
     this.setState({
